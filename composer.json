@@ -2,7 +2,7 @@
     "name": "fw_micro/security",
     "license": "MIT",
     "require": {
-        "php": "^7.1"
+        "php": ">=7.1"
     },
     "autoload": {
         "psr-4": {
